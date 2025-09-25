@@ -29,17 +29,16 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        uses: helaili/jekyll-action@v2  # Updated to a more flexible action; or stick with actions/jekyll-build-pages@v1 if preferred
+        uses: helaili/jekyll-action@v2
         with:
-          source: ./docs  # Point to your docs folder as the source
-          destination: ./_site  # Output built site to _site (relative to source)
-          pre_build_commands: |  # Optional: Install any gems if needed
+          jekyll_src: ./docs  # Source directory (your docs folder)
+          pre_build_commands: |  # Optional: Run commands before build (e.g., install gems)
             gem install bundler
-            bundle install
+            bundle install  # If you have a Gemfile in docs/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./docs/_site  # Upload the built site from docs/_site
+          path: ./docs/_site  # Path to the built site (relative to repo root)
 
   # Deployment job
   deploy:
