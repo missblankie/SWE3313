@@ -1,8 +1,8 @@
 # Isaac Thoman
 
-**Email:** ithoman@students.kennesaw.edu  
-**Website:** [isaacthoman.com](https://isaacthoman.com)
-**GitHub:** [github.com/isaacthoman](https://github.com/isaacthoman)  
+**Email:** [ithoman@students.kennesaw.edu](mailto:ithoman@students.kennesaw.edu)        
+**Website:** [isaacthoman.com](https://isaacthoman.com)     
+**GitHub:** [github.com/isaacthoman](https://github.com/isaacthoman)        
 **LinkedIn:** [linkedin.com/in/isaac-thoman](https://www.linkedin.com/in/isaac-thoman)  
 
 ## Professional Summary
@@ -11,7 +11,6 @@ CS student passionate about human-computer interaction. Experienced in full-stac
 ## Education
 **Kennesaw State University**  
 *Bachelor of Science in Computer Science*  
-GPA: 4.0  
 Expected Graduation: 2028  
 
 ## Technical Experience
