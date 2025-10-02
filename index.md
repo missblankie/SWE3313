@@ -1,7 +1,7 @@
 # Sara Waymen
 
 **Email:** [swaymen@students.kennesaw.edu](mailto:swaymen@students.kennesaw.edu)        
-**Website:** [https://missblankie.github.io/](https://missblankie.github.io/)     
+**Website:** [https://missblankie.github.io/SWE3313/](https://missblankie.github.io/SWE3313/)     
 **GitHub:** [github.com/missblankie](https://github.com/missblankie)        
 **LinkedIn:** [Sara Waymen](https://www.linkedin.com/in/sara-waymen-7a981b25a/)
 
