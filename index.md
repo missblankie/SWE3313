@@ -1,9 +1,9 @@
-# Isaac Thoman
+# Sara Waymen
 
-**Email:** [ithoman@students.kennesaw.edu](mailto:ithoman@students.kennesaw.edu)        
-**Website:** [isaacthoman.com](https://isaacthoman.com)     
-**GitHub:** [github.com/isaacthoman](https://github.com/isaacthoman)        
-**LinkedIn:** [linkedin.com/in/isaac-thoman](https://www.linkedin.com/in/isaac-thoman)  
+**Email:** [swaymen@students.kennesaw.edu](mailto:swaymen@students.kennesaw.edu)        
+**Website:** []()     
+**GitHub:** [github.com/missblankie](https://github.com/missblankie)        
+**LinkedIn:** [Sara Waymen](https://www.linkedin.com/in/sara-waymen-7a981b25a/)
 
 ## Professional Summary
 CS student passionate about human-computer interaction. Experienced in full-stack development with a focus on user-centered design and scalable systems.
@@ -11,45 +11,37 @@ CS student passionate about human-computer interaction. Experienced in full-stac
 ## Education
 **Kennesaw State University**  
 *Bachelor of Science in Computer Science*  
-Expected Graduation: 2028  
+Expected Graduation: 2027
 
 ## Technical Experience
 
-### Summer Internship (May–Aug 2024 & 2025)  
-**Software Intern** • State Farm  
-- Extended an AWS Lambda-backed claims API by adding computed fields and updated the Angular client to consume them for analytics.  
-- Built 10+ reusable Angular skeleton loader components to improve perceived load times across customer-facing claims interfaces.  
-- Investigated and fixed analytics data routing discrepancies across client and server, restoring accurate customer behavior tracking.  
-- Contributed to Agile workflows (daily standups, sprint planning, backlog grooming) to deliver features with product roadmaps.  
-- Deployed features and fixes through GitLab CI/CD into Docker-based OpenShift environments and AWS Lambda, ensuring consistent, repeatable releases.  
+### February 2024 - July 2024
+**Junior Support Tech** • Ranchlands IT
+- Supported senior technicians in configuring and maintaining servers, firewalls, and network infrastructure for 30+ SMB clients, contributing to reliable daily operations.
+- Delivered remote technical assistance for clients, resolving a wide range of hardware, software, and networking issues; maintained a high first-contact resolution rate.
+- Logged technical issues and project tasks using internal ticketing systems to ensure workflow continuity and timely follow up
+- Managed and deployed IT equipment, coordinating with SMB clients to schedule installations, then handling inventory, setup, and configuration of networking devices, servers, and end-user systems while ensuring zero to minimal downtime during rollouts.
 
-### September 2024 – Present  
-**GNC Team Member** • KSU Aerial SAE Team (Robotics)  
-- Created datasets for and trained a machine learning segmentation model for a landing task.  
-- Collaborated on hardware evaluation and implemented AprilTag detection scripts enabling precise autonomous landing capabilities.  
+### March 2020 - February 2024
+**Geek Squad Field Agent** • Best Buy Canada
+- Reduced client booking issues by 80–90% by sending weekly reports to management highlighting the impact on clients and employees and recommending fixes — improving reliability from 5–10 errors per week to fewer than 1 every 1–2 months.
+- Installed and troubleshot security systems, home networks, PCs, and home theatre setups in client homes
+- Diagnosed and repaired software/hardware issues in-store, maintaining a high service resolution rate.
+- Participated in company pilot programs, provided actionable feedback that influenced service improvements, customer satisfaction and support.
 
-### October 2022 – April 2023  
-**Software/Training Lead** • Mechanical Bulls FRC (Robotics)  
-- Led 3 programmers and collaborated with other sub-teams.  
-- Wrote one of the most effective and consistent autonomous sequences in the state – 5th highest OPR in our district.  
-- Built the autonomous navigation, vision, and state control systems.  
-- Taught new and returning members of varying skill levels.  
-- Implemented hands-on exercises with robot hardware.  
+## Projects
+### October 2024 - May 2025
+**Research Project, Kennesaw State University** • [Quantum Machine Learning for Cybersecurity and Science & Engineering Data](https://digitalcommons.kennesaw.edu/undergradsymposiumksu/spring2025/spring2025/299/) 
+- Researched in quantum machine learning and implementing cybersecurity and engineering datasets for analysis in Google Colab using python
 
-### May 2023 – November 2023  
-**Server** • Reveille Café  
-- Prepared meals, took orders, made custom drinks, maintained friendly customer relations, and ensured accuracy.  
-- Gained experience working with customers in a high-speed setting.  
-
-## Personal Projects
-### September 2024 – Present  
-**Candiru** • [GitHub](https://github.com/isaacthoman/candiru) (Angular, Three.js, Socket.io, Deno, Docker)  
-- Led a 4-person team to develop a 3D opossum-themed web game.  
-- Established CI/CD pipeline with GitHub Actions, Semantic Release, and Docker for automated deployment.  
-- Optimized for legacy hardware through responsive design, careful optimization of game rendering and networking, and use of service workers for asset caching.  
+### May 2024 - July 2024
+**Home Lab, Personal Project**
+- Built a home lab including a game server, virtual machines, and PFSense firewall. 
+- Implemented VLANs, port forwarding, and firewall rules.
 
 ## Technical Skills
-- **Languages:** JavaScript/TypeScript, Python, Go, Java, C#  
-- **Frameworks & Tools:** Node.js, React, Angular, Socket.io, Three.js, AWS Lambda, Docker, CI/CD Pipelines  
-- **Databases:** PostgreSQL, SQLite  
-- **Design:** Figma, Adobe CC Suite  
+- **Languages:** Python, Java, C#, C, SQL
+- **Tools:** WireShark, NMAP, Fortinet, SentinelOne, WindowsServer, PFSense
+- **Platforms:** Windows, Linux, MacOS, iOS, Android
+- **Hardware Skills:** Building and repair on laptops, desktops, tablets, cellphones
+- Networking knowledge
